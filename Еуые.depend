@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1606925489 source:c:\users\ryumi\desktop\Åóûå\main.cpp
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<iostream>
+
